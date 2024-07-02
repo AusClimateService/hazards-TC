@@ -43,9 +43,9 @@ Tropical cyclone projection information were provided in two formats for each of
 
 ### OWZ
 
-Western Australia (90°-135°E):
+*Western Australia (90°-135°E):*
 ![Annual frequency from OWZ - western Australia domain](Annual_Frequency/annual_frequency_boxplot_OWZ_Australia_west.png)
-Eastern Australia (135°-160°E):
+*Eastern Australia (135°-160°E):*
 ![Annual frequency from OWZ - eastern Australia domain](Annual_Frequency/annual_frequency_boxplot_OWZ_Australia_east.png)
 
 **_Caption:_** *Variability in annual count of tropical cyclones in the Australian region using the OWZ method. Top row, Australia West (90°-135°E); bottom row Australia East (135°-160°E)*
