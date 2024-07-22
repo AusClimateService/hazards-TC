@@ -53,7 +53,9 @@ Tropical cyclone projection information were provided in two formats for each of
 
 ## Spatial frequency change
 
-- Spatial patterns of tropical cyclone frequency of occurrence (number of storms per decade) are displayed as a density field on a 2.5° longitude-latitude grid. The gridded frequency of occurrence for the "historical" period (1970-2000) is subtracted from the "future" period (2070-2100) to display the projected change in number of storms per decade.
+- Spatial patterns of tropical cyclone frequency of occurrence (number of storms per decade) are displayed here as a density field on a 2.5° longitude-latitude grid.
+  - The first image shows the density of tropical cyclones in the IBTrACS "best track" data set for the period 1981-2010. 
+  - The following two images show the projected change in gridded frequency of occurrence in number of storms per decade. The track density for the "historical" period (1970-2000) is subtracted from that of the "future" period (2070-2100) to display the projected change.
 - Individual models display large variations in their spatial representation of tropical cyclones (not shown). Combining the density of tropical cyclone frequency from multiple GCMs into a multi-model ensemble helps to form a more spatially coherent evaluation of tropical cyclone risk throughout the domain.
 - The two tropical cyclone detection methods used here – CDD and OWZ – produce differing spatial frequencies and thus patterns of future change.
 - When using tropical cyclone tracks detected within a common set of GCMs:
@@ -61,6 +63,12 @@ Tropical cyclone projection information were provided in two formats for each of
   - Projected changes in frequency for the region off eastern Australia are less clear with changes derived from the CDD method showing consistent decreases, while results using the OWZ method have some isolated areas of increases amongst large areas of decrease or little change.
 - Overall, the OWZ method produces a smaller reduction in tropical cyclone frequency than using the CDD method.
 - Given the relatively poor resolution of GCMs and their inability to accurately simulate many features of tropical cyclones (e.g. their wind speeds and central pressures are usually much less intense than in reality), there remain large areas of uncertainty around future tropical cyclone behaviour, both for the Australian region and globally.
+
+### "Best Track" Observations (IBTrACS)
+
+![Observational spatial frequency in IBTrACS](Spatial_Density/tcdensity_IBTrACS_observations_1981-2010.png)
+
+**_Caption:_** *Observed spatial frequency (on a 2.5° longitude-latitude grid) of tropical cyclones from the IBTrACS "best track" data set for the period 1981-2010.*
 
 ### CDD
 
