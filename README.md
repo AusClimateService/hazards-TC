@@ -80,7 +80,7 @@ Tropical cyclone projection information were provided in two formats for each of
 
 **_Caption:_** *Change in spatial frequency (on a 2.5° longitude-latitude grid) of tropical cyclones detected using the CDD method by late 21st century (2070-2100, RCP 8.5). Projections are derived from a subset ensemble of 9 GCMs that were also analysed using another detection method (OWZ) to enable cross-method comparison of projections.*
 
-#### OWZ
+### OWZ
 
 ![Change in spatial frequency using OWZ](Spatial_Density/tcdensity_OWZ-ensemble-common_diff_fut-cur.png)
 
