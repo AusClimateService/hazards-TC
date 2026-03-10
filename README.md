@@ -35,22 +35,22 @@ Tropical cyclone projection information were provided in two formats for each of
 ### CDD 
 
 *Western Australia (90°-135°E):*
-![Annual frequency from CDD - western Australia domain](Annual_Frequency/annual_frequency_boxplot_CDD_Australia_west.png)
+![Annual frequency from CDD - western Australia domain](CMIP5/Annual_Frequency/annual_frequency_boxplot_CDD_Australia_west.png)
 *Eastern Australia (135°-160°E):*
-![Annual frequency from CDD - eastern Australia domain](Annual_Frequency/annual_frequency_boxplot_CDD_Australia_east.png)
+![Annual frequency from CDD - eastern Australia domain](CMIP5/Annual_Frequency/annual_frequency_boxplot_CDD_Australia_east.png)
 *Australia (90°-160°E):*
-![Annual frequency from CDD - Australia domain](Annual_Frequency/annual_frequency_boxplot_CDD_Australia_all.png)
+![Annual frequency from CDD - Australia domain](CMIP5/Annual_Frequency/annual_frequency_boxplot_CDD_Australia_all.png)
 
 **_Caption:_** *Variability in annual count of tropical cyclones in the Australian region using the CDD method. Top row, Australia West (90°-135°E); middle row Australia East (135°-160°E); bottom row Australia domain (90°-135°E)*
 
 ### OWZ
 
 *Western Australia (90°-135°E):*
-![Annual frequency from OWZ - western Australia domain](Annual_Frequency/annual_frequency_boxplot_OWZ_Australia_west.png)
+![Annual frequency from OWZ - western Australia domain](CMIP5/Annual_Frequency/annual_frequency_boxplot_OWZ_Australia_west.png)
 *Eastern Australia (135°-160°E):*
-![Annual frequency from OWZ - eastern Australia domain](Annual_Frequency/annual_frequency_boxplot_OWZ_Australia_east.png)
+![Annual frequency from OWZ - eastern Australia domain](CMIP5/Annual_Frequency/annual_frequency_boxplot_OWZ_Australia_east.png)
 *Australia (90°-160°E):*
-![Annual frequency from CDD - full Australia domain](Annual_Frequency/annual_frequency_boxplot_OWZ_Australia_all.png)
+![Annual frequency from CDD - full Australia domain](CMIP5/Annual_Frequency/annual_frequency_boxplot_OWZ_Australia_all.png)
 
 **_Caption:_** *Variability in annual count of tropical cyclones in the Australian region using the OWZ method. Top row, Australia West (90°-135°E); middle row Australia East (135°-160°E); bottom row Australia domain (90°-160°E)*
 
@@ -70,29 +70,32 @@ Tropical cyclone projection information were provided in two formats for each of
 
 ### Best Track Observations of Tropical Cyclones (IBTrACS)
 
-![Observational spatial frequency in IBTrACS](Spatial_Density/tcdensity_IBTrACS_observations_1981-2010.png)
+![Observational spatial frequency in IBTrACS](CMIP5/Spatial_Density/Frequency-of-Tropical-Cyclones-in-IBTrACS.png)
 
 **_Caption:_** *Observed spatial frequency (on a 2.5° longitude-latitude grid) of tropical cyclones from the IBTrACS best track data set for the period 1981-2010.*
 
 ### CDD
 
-![Change in spatial frequency using CDD](Spatial_Density/tcdensity_CDD-ensemble-common_diff_fut-cur.png)
+![Change in spatial frequency using CDD](CMIP5/Spatial_Density/Change-in-Frequency-of-Tropical-Cyclones-in-CMIP5:-CDD.png)
 
 **_Caption:_** *Change in spatial frequency (on a 2.5° longitude-latitude grid) of tropical cyclones detected using the CDD method by late 21st century (2070-2100, RCP 8.5). Projections are derived from a subset ensemble of 9 GCMs that were also analysed using another detection method (OWZ) to enable cross-method comparison of projections.*
 
 ### OWZ
 
-![Change in spatial frequency using OWZ](Spatial_Density/tcdensity_OWZ-ensemble-common_diff_fut-cur.png)
+![Change in spatial frequency using OWZ](CMIP5/Spatial_Density/Change-in-Frequency-of-Tropical-Cyclones-in-CMIP5:-OWZ.png)
 
 **_Caption:_** *Change in spatial frequency (on a 2.5° longitude-latitude grid) of tropical cyclones detected using the OWZ method by late 21st century (2070-2100, RCP 8.5). Projections are derived from a subset ensemble of 9 GCMs that were also analysed using another detection method (CDD) to enable cross-method comparison of projections.*
 
 
 ## Contributors / Authors / Acknowledgements
 
-Hazard team:  
+**Hazard team:**
 
 - Hamish Ramsay (CSIRO Environment, lead)
-- Craig Arthur (Geoscience Australia, alternate lead)
 - Tony Rafter (CSIRO Environment, contributor)
 - Stacey Osbrough (CSIRO Environment, contributor)
+
+**Acknowledgement:**
+
+- Craig Arthur (formerly Geoscience Australia and alternate lead)
 
